@@ -109,7 +109,7 @@ body {
   }
   
   #btnzap {
-    background: #e7a200;
+    background: #58d2ce;
     border-radius: 65px;
     padding: 3px 15px;
     font-size: 20px;
@@ -245,7 +245,7 @@ gap: 15px;
   text-transform: uppercase;
 
   & h2 {
-    color: #e7a200;
+    color: #2fd6dc;
     font-size: 28px;
     line-height: 80px;
     margin: 0;
@@ -287,20 +287,20 @@ gap: 15px;
   }
 
   input[type="submit"] {
-    background: #e7a200;
-    border-color: #e7a200;
+    background: #bef7ff;
+    border-color: #86caeb;
     width: 155px;
     border-radius: 50px;
-    color: #fff;
+    color: #000000;
     font-weight: 700;
     margin-top: 20px;
   }
 }
 
 footer {
-  background-color: #e7a200;
+  background-color: #88dfed;
   margin-top: -145px;
-  color: #fff;
+  color: #000000;
   text-align: center;
   padding-top: 50px;
 }
